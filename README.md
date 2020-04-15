@@ -9,4 +9,5 @@ Each of them implemented like a "state machine",
 each state of which is activated by increasement of appropriate sound channel.
 
 ## Screenshots:
+![](@Screenshots/1.png)
 ![](@Screenshots/1.gif)
