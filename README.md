@@ -5,8 +5,8 @@ This is a Rainmeter skin pack.
 It contains 4 main characters
 from Doki Doki Literature Club game.
 
-Each of them implemented like a "state machine",
-each state of which is activated by increasement of appropriate sound channel.
+Each of them is implemented like a state machine,
+with its states activated by gain of appropriate sound channel.
 
 ## Screenshots:
 ![](@Screenshots/1.png)
